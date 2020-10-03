@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: green;
+  }
+
+  h2 {
+    font-family: serif;
+  }
+
+h3 {
+    font-family: serif;
+    color: brown;
+}
+
+li {
+    font-family: serif;
+}
+
+P {
+    font-family: serif;
+}
+
+#mmphoto {
+    float: right;
+}
+
+.boxed {
+    border: 1px solid black ;
+    text-align: center;
+    font-size: medium;
+  }
